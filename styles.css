@@ -16,7 +16,7 @@ body * {
 body{ 
     background-image: url("assests/fundo.jpg");
     background-position: top center;
-    background-size:100% auto;
+    background-size: auto;
     background-repeat: no-repeat;
     background-color: black;
    
